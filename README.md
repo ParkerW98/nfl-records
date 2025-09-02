@@ -4,23 +4,21 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Deploy](https://img.shields.io/badge/Deploy-GitHub_Pages-181717?style=for-the-badge&logo=github)
 
 A simple React + Tailwind web app that lets you predict every NFL team’s record for the **2025 season**.  
 Pick wins/losses for each week, and the app automatically tallies the projected record.  
-You can also save your predictions as an image and share them with friends.  
+You can also save your predictions as an image and share them with friends.
 
 ---
 
-## 📸 Screenshot  
-
-![App Screenshot](https://via.placeholder.com/1000x600.png?text=Add+Your+App+Screenshot+Here)  
+## 📸 Screenshot
+![App Screenshot](./screenshot.png)
 
 ---
 
-## ✨ Features  
-
+## ✨ Features
 - Select any NFL team and view their full 2025 schedule.  
 - Click *W/L* for each week to make your prediction.  
 - Auto-updates projected record in real time.  
@@ -29,9 +27,9 @@ You can also save your predictions as an image and share them with friends.
 
 ---
 
-## ⚙️ Setup  
+## ⚙️ Setup
 
-Clone the repo and install dependencies:  
+Clone the repo and install dependencies:
 
 ```bash
 git clone https://github.com/ParkerW98/nfl-records.git
@@ -73,6 +71,6 @@ Not affiliated with the NFL — team names and logos are trademarks of their res
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 Built by [ParkerW98](https://github.com/ParkerW98)
