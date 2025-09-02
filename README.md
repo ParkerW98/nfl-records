@@ -13,8 +13,8 @@ You can also save your predictions as an image and share them with friends.
 ## 📸 Screenshot
 
 
-<p align="center">
-  <img src="./example.png" alt="App Screenshot" width="600"/>
+<p align="left">
+  <img src="./example.png" alt="App Screenshot" width="400"/>
 </p>
 
 
