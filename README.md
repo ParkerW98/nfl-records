@@ -1,12 +1,52 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🏈 NFL 2025 Record Predictor
 
-Currently, two official plugins are available:
+A simple React + Tailwind web app that lets you predict every NFL team’s record for the **2025 season**.
+Pick wins/losses for each week, and the app automatically tallies the projected record.
+You can also save your predictions as an image and share them with friends.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## Expanding the ESLint configuration
+* Select any NFL team and view their full 2025 schedule.
+* Click **W/L** for each week to make your prediction.
+* Auto-updates projected record in real time.
+* Save your prediction card as a **shareable PNG**.
+* Built with **React, Vite, and TailwindCSS**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📦 Setup
+
+Clone the repo and install dependencies:
+
+git clone [https://github.com/ParkerW98/nfl-records.git](https://github.com/ParkerW98/nfl-records.git)
+cd nfl-records
+npm install
+
+Run locally:
+
+npm run dev
+
+Build for production:
+
+npm run build
+
+Preview build:
+
+npm run preview
+
+
+🌐 Deployment
+
+This project is deployed with **GitHub Pages**:
+👉 [https://ParkerW98.github.io/nfl-records](https://ParkerW98.github.io/nfl-records)
+
+📄 License
+
+This project is for **educational and personal use only**.
+Not affiliated with the NFL — team names and logos are trademarks of their respective owners.
+
+👤 Author
+
+Built by [ParkerW98](https://github.com/ParkerW98)
+
+---
