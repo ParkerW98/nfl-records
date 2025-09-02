@@ -1,5 +1,3 @@
----
-
 🏈 NFL 2025 Record Predictor
 
 A simple React + Tailwind web app that lets you predict every NFL team’s record for the **2025 season**.
@@ -48,5 +46,3 @@ Not affiliated with the NFL — team names and logos are trademarks of their res
 👤 Author
 
 Built by [ParkerW98](https://github.com/ParkerW98)
-
----
