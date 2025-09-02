@@ -12,7 +12,7 @@ You can also save your predictions as an image and share them with friends.
 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./example.png)
 
 ## ✨ Features
 
